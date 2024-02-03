@@ -1,1 +1,1 @@
-# PlantClassification
+Dataset Link: https://www.kaggle.com/datasets/nirmalsankalana/plant-diseases-training-dataset
