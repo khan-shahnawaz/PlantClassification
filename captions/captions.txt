@@ -1,75 +1,75 @@
-_mosaic_disease: Leaf displaying a mosaic pattern, a common symptom of viral infection. Yellowing, distortion, and reduced growth may also be observed.
+_mosaic_disease: Mosaic pattern, yellowing, distortion, and reduced growth on leaves.
 
-_citrus_greening: Citrus leaf affected by greening disease, featuring yellow shoots, mottled appearance, and bitter taste in the fruit.
+_citrus_greening: Yellow shoots, mottled appearance on leaves.
 
-_bacterial_spot: Close-up of plant leaves with bacterial spot. Dark lesions with a water-soaked appearance, leading to defoliation and reduced fruit quality.
+_bacterial_spot: Dark lesions with a water-soaked appearance on leaves.
 
-_leaf_curl: Twisted and curled leaves, indicative of viral infection causing leaf curl. Stunted growth and reduced fruit production may accompany.
+_leaf_curl: Twisted and curled leaves indicating possible stunted growth.
 
-_late_blight: Plant with late blight, showing dark lesions on leaves, stems, and fruit. Rapid plant decay, wilting, and reduced yield are common symptoms.
+_late_blight: Dark lesions on leaves, stems, and fruit. Rapid plant decay, wilting, and reduced yield.
 
-_early_blight: Plant leaves affected by early blight, exhibiting concentric rings and signs of defoliation. Reduced photosynthesis and premature aging of plants.
+_early_blight: Concentric rings, signs of defoliation on leaves. Reduced photosynthesis, premature aging.
 
-_powdery_mildew: Plant leaves covered in powdery mildew, with a white powdery substance. Reduced photosynthesis, yellowing, and overall plant weakness are symptoms.
+_powdery_mildew: White powdery substance covering leaves. Reduced photosynthesis, yellowing.
 
-_bacterial_blight: Leaves and stems displaying water-soaked lesions, characteristic of bacterial blight. Leaf wilting, stem cankers, and reduced plant vigor are observed.
+_bacterial_blight: Water-soaked lesions on leaves and stems. Leaf wilting, stem cankers.
 
-_green_mottle: Plant leaves showing a mottled appearance, indicating infection with green mottle virus. Reduced plant vigor and distorted growth are common symptoms.
+_green_mottle: Mottled appearance on leaves. Distorted growth.
 
-_black_measles: Dark spots resembling measles on plant leaves, a sign of fungal infection. Small lesions leading to defoliation and compromised plant health.
+_black_measles: Dark spots resembling measles on leaves. Small lesions, defoliation.
 
-_brown_streak_disease: Plant affected by brown streak disease, displaying streaks and discoloration on leaves. Reduced yield and overall plant health may be observed.
+_brown_streak_disease: Streaks, discoloration on leaves. Reduced yield.
 
-_brown_spot: Plant leaves with brown spot disease, featuring brown lesions and spots. Premature defoliation and reduced crop quality are common symptoms.
+_brown_spot: Brown lesions, spots on leaves. Premature defoliation, reduced crop quality.
 
-_black_rot: Plant exhibiting black rot disease, characterized by dark lesions on leaves and stems. Rapid decay and wilting may occur.
+_black_rot: Dark lesions on leaves and stems. Rapid decay, wilting.
 
-_septoria_leaf_spot: Plant leaves showing symptoms of septoria leaf spot, including small dark spots with a surrounding yellow halo. Defoliation and reduced vigor may occur.
+_septoria_leaf_spot: Small dark spots, surrounding yellow halo on leaves. Defoliation.
 
-_rust: Plant leaves affected by rust disease, displaying rust-colored pustules. Reduced photosynthesis and overall plant weakness are common symptoms.
+_rust: Rust-colored pustules on leaves. Reduced photosynthesis.
 
-_spider_mites: Close-up of leaves infested with spider mites, showing tiny webs and stippling. Reduced plant vigor and leaf damage may occur.
+_spider_mites: Tiny webs, stippling on leaves. Leaf damage.
 
-_blast: Plant affected by blast disease, featuring lesions and discoloration on leaves. Premature defoliation and reduced crop yield may occur.
+_blast: Lesions, discoloration on leaves. Premature defoliation, reduced crop yield.
 
-_target_spot: Leaves with symptoms of target spot disease, exhibiting concentric rings and dark lesions. Reduced photosynthesis and overall plant health may be observed.
+_target_spot: Concentric rings, dark lesions on leaves. Reduced photosynthesis.
 
-_scab: Plant leaves affected by scab disease, showing rough, scaly lesions. Reduced fruit quality and overall plant health may be observed.
+_scab: Rough, scaly lesions on leaves. Reduced fruit quality.
 
-_common_rust: Plant leaves displaying symptoms of common rust disease, featuring orange to brown pustules. Reduced photosynthesis and overall plant weakness may occur.
+_common_rust: Orange to brown pustules on leaves. Reduced photosynthesis.
 
-_leaf_scorch: Leaves exhibiting symptoms of leaf scorch, characterized by browning and necrosis of leaf margins. Reduced plant vigor and overall health may occur.
+_leaf_scorch: Browning, necrosis of leaf margins. Reduced plant vigor.
 
-_tungro: Plant affected by tungro disease, showing stunted growth and yellowing of leaves. Reduced yield and overall plant health may occur.
+_tungro: Stunted growth, yellowing of leaves. Reduced yield.
 
-_isariopsis_leaf_spot: Plant leaves showing symptoms of isariopsis leaf spot, featuring small dark spots with a surrounding halo. Defoliation and reduced plant vigor may occur.
+_isariopsis_leaf_spot: Small dark spots, surrounding halo on leaves. Defoliation.
 
-_northern_leaf_blight: Plant affected by northern leaf blight, showing long lesions with a tan center. Reduced yield and overall plant health may occur.
+_northern_leaf_blight: Long lesions with a tan center on leaves. Reduced yield.
 
-_leaf_mold: Plant leaves affected by leaf mold disease, showing fuzzy growth and discoloration. Reduced photosynthesis and overall plant health may occur.
+_leaf_mold: Fuzzy growth, discoloration on leaves. Reduced photosynthesis.
 
-_pests: Leaves damaged by pests, showing various forms of feeding damage. Reduced plant vigor and overall health may occur.
+_pests: Various forms of feeding damage on leaves. Reduced plant vigor.
 
-_bacterial_wilt: Plant exhibiting symptoms of bacterial wilt, including wilting and browning of leaves. Reduced plant vigor and overall health may occur.
+_bacterial_wilt: Wilting, browning of leaves. Reduced plant vigor.
 
-_virus: Plant leaves showing symptoms of viral infection, including mosaic patterns, yellowing, and distortion. Reduced growth and overall plant health may occur.
+_virus: Mosaic patterns, yellowing, distortion on leaves. Reduced growth.
 
-_red_rot: Plant affected by red rot disease, featuring red discoloration and decay. Reduced yield and overall plant health may occur.
+_red_rot: Red discoloration, decay on plant. Reduced yield.
 
-_gray_leaf_spot: Plant leaves showing symptoms of gray leaf spot disease, featuring dark lesions with a gray center. Reduced photosynthesis and overall plant health may occur.
+_gray_leaf_spot: Dark lesions with a gray center on leaves. Reduced photosynthesis.
 
-_yellow_leaf: Leaves exhibiting yellowing, a symptom of various diseases or nutrient deficiencies. Reduced photosynthesis and overall plant health may occur.
+_yellow_leaf: Yellowing of leaves. Reduced photosynthesis.
 
-_mosaic: Plant exhibiting mosaic patterns on leaves, a common symptom of viral infection. Yellowing, distortion, and reduced growth may also be observed.
+_mosaic: Mosaic patterns, yellowing, distortion on leaves. Reduced growth.
 
-leaf_blight: Plant leaves showing symptoms of blight, including wilting, browning, and decay. Reduced plant vigor and overall health may occur.
+leaf_blight: Wilting, browning, decay of leaves. Reduced plant vigor.
 
-_gray_spot: Plant leaves displaying symptoms of gray spot disease, featuring small dark spots. Reduced photosynthesis and overall plant health may occur.
+_gray_spot: Small dark spots on leaves. Reduced photosynthesis.
 
-_mosaic_virus: Plant leaves showing symptoms of mosaic virus infection, including mosaic patterns, yellowing, and distortion. Reduced growth and overall plant health may occur.
+_mosaic_virus: Mosaic patterns, yellowing, distortion on leaves. Reduced growth.
 
-_phytophthora: Plant showing symptoms of Phytophthora infection, including wilting and dark lesions. Reduced plant vigor and overall health may occur.
+_phytophthora: Wilting, dark lesions on plant. Reduced plant vigor.
 
-_alternaria_leaf_spot: Plant leaves affected by alternaria leaf spot, featuring dark lesions with a concentric ring pattern. Reduced photosynthesis and overall plant health may occur.
+_alternaria_leaf_spot: Dark lesions with a concentric ring pattern on leaves. Reduced photosynthesis.
 
-_nematode: Plant roots showing symptoms of nematode infestation, including stunted growth and damage. Reduced plant vigor and overall health may occur.
+_nematode: Yellowing, stunting, and wilting of leaves.
