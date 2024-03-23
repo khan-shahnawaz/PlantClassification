@@ -1,75 +1,75 @@
-_mosaic_disease: Mosaic pattern, yellowing, distortion, and reduced growth on leaves.
+_mosaic_disease: mottling, misshapen and twisted leaflets, severe stunting, distortion of leaves, twisted, distorted, and stunted, turning from green to yellow
 
-_citrus_greening: Yellow shoots, mottled appearance on leaves.
+_citrus_greening: blotchy mottle, asymmetrical yellowing pattern, yellowing in a single part of the tree or the entire canopy, a green island on a yellow leaf
 
-_bacterial_spot: Dark lesions with a water-soaked appearance on leaves.
+_bacterial_spot: Water-soaked spots,  Larger black roughly circular spots, yellow halo around the spots
 
-_leaf_curl: Twisted and curled leaves indicating possible stunted growth.
+_leaf_curl: bent downwards, stiff, thicker than normal, have a leathery texture, show interveinal chlorosis and are wrinkled, slightly chlorotic (yellowish)
 
-_late_blight: Dark lesions on leaves, stems, and fruit. Rapid plant decay, wilting, and reduced yield.
+_late_blight: water-soaked dark green to black or purplish lesions with pale green margins on lower leaves, white mildew at edge of lesions
 
-_early_blight: Concentric rings, signs of defoliation on leaves. Reduced photosynthesis, premature aging.
+_early_blight: Concentric rings, signs of defoliation on leaves, large, irregular patches of black tissue surrounded by yellow areas
 
-_powdery_mildew: White powdery substance covering leaves. Reduced photosynthesis, yellowing.
+_powdery_mildew: White to gray, powdery spots, blotches covering leaves
 
-_bacterial_blight: Water-soaked lesions on leaves and stems. Leaf wilting, stem cankers.
+_bacterial_blight: Water-soaked lesions on leaves. blight, wilting, dieback, and vascular necrosis
 
-_green_mottle: Mottled appearance on leaves. Distorted growth.
+_green_mottle: Faint or distinct mottling, Mosaic, Puckering, Distortion of leaf margins
 
-_black_measles: Dark spots resembling measles on leaves. Small lesions, defoliation.
+_black_measles: Brown streaking lesions on any part of the leaf, Dark red stripes that start between the veins, or yellow stripes that start between the veins in white cultivars
 
-_brown_streak_disease: Streaks, discoloration on leaves. Reduced yield.
+_brown_streak_disease: Severe chlorosis and necrosis on infected leaves, yellowish, mottled appearance
 
-_brown_spot: Brown lesions, spots on leaves. Premature defoliation, reduced crop quality.
+_brown_spot: Brown lesions, spots on leaves.
 
-_black_rot: Dark lesions on leaves and stems. Rapid decay, wilting.
+_black_rot: sunken black spot surrounded by a red halo
 
-_septoria_leaf_spot: Small dark spots, surrounding yellow halo on leaves. Defoliation.
+_septoria_leaf_spot: Small, round to irregular spots with grey centre and dark margin
 
-_rust: Rust-colored pustules on leaves. Reduced photosynthesis.
+_rust: Red rings around the edge of the spots, Small, orange or dark-colored, sporulating pustules
 
-_spider_mites: Tiny webs, stippling on leaves. Leaf damage.
+_spider_mites: Yellowing or whitening, Mottling, Stippling, Bronzing, Small yellow or white spots, Yellow blotching ,Yellow discoloration or bronzing on the underside of the leaves,Sandblasting appearance on the underside of the leaves 
 
-_blast: Lesions, discoloration on leaves. Premature defoliation, reduced crop yield.
+_blast:  spindle shaped with pointed ends, with reddish or purplish brown margin and ashy colored center, Elliptical spots with light-colored centers and reddish edges
 
-_target_spot: Concentric rings, dark lesions on leaves. Reduced photosynthesis.
+_target_spot: Concentric Lesions can be seen inside the canopy and the micro-climate favors the infection process. 
 
-_scab: Rough, scaly lesions on leaves. Reduced fruit quality.
+_scab: small brown or olive-green spots, velvet-like with fringed borders
 
-_common_rust: Orange to brown pustules on leaves. Reduced photosynthesis.
+_common_rust: small, round to oval pustules that are golden brown to cinnamon brown in color
 
-_leaf_scorch: Browning, necrosis of leaf margins. Reduced plant vigor.
+_leaf_scorch: Upward curling, numerous small, brown to purplish lesions on the leaves
 
-_tungro: Stunted growth, yellowing of leaves. Reduced yield.
+_tungro: Leaves turn yellow, orange-yellow, or have rust-colored spots, starting at the tip and extending to the blade
 
-_isariopsis_leaf_spot: Small dark spots, surrounding halo on leaves. Defoliation.
+_isariopsis_leaf_spot: Small dark spots, surrounding halo on leaves
 
-_northern_leaf_blight: Long lesions with a tan center on leaves. Reduced yield.
+_northern_leaf_blight: tan lesions that are long, narrow, and parallel to the leaf veins
 
-_leaf_mold: Fuzzy growth, discoloration on leaves. Reduced photosynthesis.
+_leaf_mold: Pale greenish-yellow spots, Olive-green to brown mold
 
-_pests: Various forms of feeding damage on leaves. Reduced plant vigor.
+_pests: Various forms of feeding damage on leaves.
 
-_bacterial_wilt: Wilting, browning of leaves. Reduced plant vigor.
+_bacterial_wilt: Wilting, browning or yellowing of leaves.
 
-_virus: Mosaic patterns, yellowing, distortion on leaves. Reduced growth.
+_virus: crinkled, wavy, or have yellowing, mottling, or mosaic patterns, Wavy leaf margins
 
-_red_rot: Red discoloration, decay on plant. Reduced yield.
+_red_rot: Red discoloration, reddening of internodes, white spot with drying
 
-_gray_leaf_spot: Dark lesions with a gray center on leaves. Reduced photosynthesis.
+_gray_leaf_spot: Dark lesions with a gray center on leaves.
 
-_yellow_leaf: Yellowing of leaves. Reduced photosynthesis.
+_yellow_leaf:  yellowing of the leaf midrib on the underside of the leaf to the leaf blade
 
-_mosaic: Mosaic patterns, yellowing, distortion on leaves. Reduced growth.
+_mosaic: mottling, misshapen and twisted leaflets, severe stunting, distortion of leaves, twisted, distorted, and stunted, turning from green to yellow
 
-leaf_blight: Wilting, browning, decay of leaves. Reduced plant vigor.
+leaf_blight: dull red to brown to black irregularly shaped lesions 
 
-_gray_spot: Small dark spots on leaves. Reduced photosynthesis.
+_gray_spot: powdery gray spots on leaves
 
-_mosaic_virus: Mosaic patterns, yellowing, distortion on leaves. Reduced growth.
+_mosaic_virus: Lighter coloring, mosaic patterns of alternating light and dark green, curled, malformed, or reduced leaf size, spots of dead leaf tissue, and young leaves curl downwards and become bronzed
 
-_phytophthora: Wilting, dark lesions on plant. Reduced plant vigor.
+_phytophthora: Wilting, dark lesions on plant
 
-_alternaria_leaf_spot: Dark lesions with a concentric ring pattern on leaves. Reduced photosynthesis.
+_alternaria_leaf_spot: small, dark brown, or purplish-brown concentric spots bordered by a dark margin
 
 _nematode: Yellowing, stunting, and wilting of leaves.
